@@ -4,15 +4,15 @@ void fun(int a) {
     printf("%d\n",a);
 }
 
-void fizz(int a) {
+void fizz(int _) {
     printf("Fizz\n");
 }
 
-void buzz(int a) {
+void buzz(int _) {
     printf("Buzz\n");
 }
 
-void fbzz(int a) {
+void fbzz(int _) {
     printf("FizzBuzz!\n");
 }
 
